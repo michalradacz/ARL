@@ -124,7 +124,7 @@ But using ARL transformation using TTS direction you can say that user uses app 
 ## Basic ARL definition rules
 
 - Statement construct: Rule for creating one Statement from one relationship or more complex sentence from rellevant more relationships as described bellow:
-     -   Simple sentence: Sentence is created from ONE relationship using rule \"WWHO DOES WHAT\". Rule is \"Source element DOES (relationship description) WTarget element\".
+  - Simple sentence: Sentence is created from ONE relationship using rule \"WWHO DOES WHAT\". Rule is \"Source element DOES (relationship description) WTarget element\".
   - Complex sentence: Sentence is created composing one sentence from MANY same type relationships. If there are one Source element and three relationships with same type and another targets, we can use rule: \"WHO DOES WHAT, WHAT and WHAT.\" Rule is: \"Source element DOES (relationship description) Target1 and Target2 and Target3,\"
 - ARLDirection: Says way to construct readable sentence from relationship. Possible attributes are STT or TTS.
   - STT: Source to target. Sentence is constructed by rule \"source does target\". This is default direction.
