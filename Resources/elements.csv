@@ -1,0 +1,6 @@
+ID,Type,Name,Documentation
+arl_model_architect,BusinessRole,Architect,Person makes and manages architecture
+arl_model_mike,BusinessActor,Mike,Person Michal (Mike)
+arl_model_arlspecs,Resource,ARL specification,SOfficial specifications and documentation of ARL
+arl_model_archimodel,DataObject,ArchiMate model,Architectural model for knowledge architecture in ArchiMate language, source for ARL statements and outputss
+arl_model_textdocument,DataObject,Text document,Document in textual Form with documentation of knowledge architecture or some Parts of architecture
